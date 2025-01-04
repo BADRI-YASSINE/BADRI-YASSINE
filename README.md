@@ -1,1 +1,1 @@
-<h1>                                      Hi, I'm BADRI YASSINE</h1>
+<h1 style="text-align:center;">Hi, I'm BADRI YASSINE</h1>
