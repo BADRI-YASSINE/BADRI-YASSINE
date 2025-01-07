@@ -44,13 +44,13 @@
   <img width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="git logo"  />
 </div>
-###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BADRI-YASSINE/BADRI-YASSINE/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BADRI-YASSINE/BADRI-YASSINE/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/BADRI-YASSINE/BADRI-YASSINE/output/github-snake.svg" />
 </picture>
-###
+
 
 
 
