@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">{ Age : 19 years old ; Country : Morocco ; City : Tan-Tan ; Studying ; Web Development }</h4>
+<h4 align="center">{ Age : 19 years old ; Country : Morocco ; Studying ; Web Development }</h4>
 
 
 <div align="center">
